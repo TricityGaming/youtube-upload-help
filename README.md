@@ -12,4 +12,4 @@ Set-Up:
 - Start the script with ./start_upload.sh
 
 Important: No Spaces in the File Names so before you write the filepaths in the video_list.txt delete the spaces!
-- How you replace all spaces with underscores: rename 's/\s/_/g' *
+- How you replace all spaces with underscores: "rename 's/\s/_/g' *"
