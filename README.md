@@ -7,6 +7,7 @@ Read the textline in video_list.txt.
 Information: YouTube blocks too many upload in a short time rate -> If this happen delete the videos which went online already and execute the script after an hour again.
 
 Set-Up:
+- Extract all files in the folder where youtube-upload (https://github.com/tokland/youtube-upload) is located
 - Write your paths to the videos in the video_list.txt
 - Edit the privacy settings in multiple_upload.py to unlisted/private or public (Default: private)
 - Start the script with ./start_upload.sh
